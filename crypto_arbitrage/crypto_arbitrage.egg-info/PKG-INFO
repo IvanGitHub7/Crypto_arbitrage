@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: crypto_arbitrage
+Version: 0.1
+Requires-Dist: aiohttp
+Requires-Dist: PyQt6
+Requires-Dist: ccxt
+Dynamic: requires-dist
